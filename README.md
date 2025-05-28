@@ -1,4 +1,4 @@
-<h2 align="left">Thiago Tavares</h2>
+<h2 align="left">👨‍💻 Thiago Tavares</h2>
 
 ###
 
