@@ -27,7 +27,8 @@
 ## Portfolio
 - [Shortener Link](https://github.com/ThiagoTMonteiro/ShortenerApi)
 - [Wallet Client](https://github.com/ThiagoTMonteiro/WalletApi)
-- [Academic Hub](https://github.com/ThiagoTMonteiro/academic-hub-api)
+- [Academic Hub API](https://github.com/ThiagoTMonteiro/academic-hub-api)
+- [Academic Hub APP](https://github.com/ThiagoTMonteiro/academic-hub-app)
 - [wordplay](https://github.com/ThiagoTMonteiro/Jogo-de-palavras)
 
 ###
