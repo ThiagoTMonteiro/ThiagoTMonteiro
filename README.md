@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Olá, sou desenvolvedor Fullstack com mais de 5 anos de experiência profissional na criação de soluções corporativas completas — do backend ao frontend — com foco em integrações, escalabilidade e alta performance.<br><br>Tenho domínio do ecossistema .NET, além de sólida experiência com ReactJS, Angular 10+, Node.js, Java com Spring Boot e desenvolvimento mobile com Android e React Native. Atuo fortemente na construção de aplicações distribuídas e escaláveis, utilizando Docker, Kubernetes e arquitetura de microservices.<br><br>Minha trajetória inclui o desenvolvimento de APIs REST, implementação de pipelines CI/CD, otimização de sistemas para performance, além do uso de ferramentas como RabbitMQ e Kafka para mensageria, Redis para caching e bancos de dados relacionais e NoSQL como SQL Server, PostgreSQL e MongoDB.</p>
+<p align="left">- Olá, sou desenvolvedor Fullstack com mais de 5 anos de experiência profissional na criação de soluções corporativas completas — do backend ao frontend — com foco em integrações, escalabilidade e alta performance.</p>
 
 ###
 
