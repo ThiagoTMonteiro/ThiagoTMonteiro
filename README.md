@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Olá, sou desenvolvedor Fullstack com mais de 5 anos de experiência profissional na criação de soluções corporativas completas — do backend ao frontend — com foco em integrações, escalabilidade e alta performance.</p>
+<p align="left">Olá, sou desenvolvedor Fullstack com mais de 5 anos de experiência profissional na criação de soluções corporativas completas do backend ao frontend com foco em integrações, escalabilidade e alta performance.</p>
 
 ###
 
